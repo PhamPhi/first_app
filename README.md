@@ -1,11 +1,11 @@
 == README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Ruby On Rails Application: The first simple application 
+This is the first simple application for learning the RoR development by Larry Ritchie...
+Every Confusions, Please contact to me directly by the email eddress 'larryritchie.developer@gmail.com'
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 
 
 * System dependencies
 
